@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/manikchitralwar/webmarket-dataset
 
 ## Result
 > Image Given
-![Test Image](../_images/db167.jpg)
+![Test Image](/_images/db167.jpg)
 
 > Result Image
-![Result Image](../_images/db167_p.jpg)
+![Result Image](/_images/db167_p.jpg)
