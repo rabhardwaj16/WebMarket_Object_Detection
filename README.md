@@ -28,4 +28,4 @@ https://www.kaggle.com/datasets/manikchitralwar/webmarket-dataset
 ![Test Image](https://raw.githubusercontent.com/rabhardwaj16/WebMarket_Object_Detection/main/_images/db167.jpg)
 
 > Result Image
-![Result Image](./_images/db167_p.jpg)
+![Result Image](https://raw.githubusercontent.com/rabhardwaj16/WebMarket_Object_Detection/main/_images/db167_p.jpg)
