@@ -1,4 +1,4 @@
-# WebMarket Object Detection
+# WebMarket Dataset Object Detection
 This repository contains approach to create a model that identifies the objects/products given in the image using [WebMarket DataSet](https://www.kaggle.com/datasets/manikchitralwar/webmarket-dataset) present on Kaggle.
 
 ## Description
